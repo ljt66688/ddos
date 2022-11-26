@@ -10,8 +10,12 @@
 **请勿用于非法用途**
 
 > ddos-p3.py 适用于 **python3.X** 版本，也就是较新版本的kali
-
-> ddos-p2.py 适用于 **python2.X** 版本，也就是2020及以前版本的kali
+git clone https://github.com/Ha3MrX/DDos-Attack
+cd DDos-Attack
+chmod +x ddos-attack.py
+python ddos-attack.py
+ScreenShot
+ddos-p2.py 适用于 **python2.X** 版本，也就是2020及以前版本的kali
 
 原作者链接：https://github.com/Ha3MrX/DDos-Attack
 
